@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mysimplelayouts">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MySimpleLayouts">
+        <activity
+            android:name=".screens.Cart_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.WatermelonDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.PineappleDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.PawPawDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.OrangeDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.MangoDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.GuavaDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.CucumberDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.BananaDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.AppleDescription"
+            android:exported="false" />
+        <activity
+            android:name=".screens.ForgetPassword_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Notifications_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Activation_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Cucumber_page"
+            android:exported="false" />
+        <activity
+            android:name=".appleActivity.Apple_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Guava_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Pineapple_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Banana_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Pawpaw_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Watermelon_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Profile_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Settings_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Mango_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Orange_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.AboutUs_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.Fonts_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.DashBoard_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.LogIn_page"
+            android:exported="false" />
+        <activity
+            android:name=".screens.SignUp_page"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

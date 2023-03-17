@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable-v24/ic_baseline_account_box_24_2.xml" value="0.124" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/arrow_back.xml" value="0.1" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/button_style.xml" value="0.1085" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/circle_background.xml" value="0.1355" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/dashboard.xml" value="0.1175" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/dashbord.xml" value="0.129" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/edit_style.xml" value="0.1085" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/font_button.xml" value="0.133" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1175" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1195" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_arrow_back_white.xml" value="0.1195" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.1545" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.119" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1175" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1175" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.125" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.1175" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.126" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1235" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/image.xml" value="0.1235" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/long_line.xml" value="0.116" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/professional.xml" value="0.129" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/profile.xml" value="0.129" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/profile_button.xml" value="0.129" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/quantity_button.xml" value="0.129" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/settings.xml" value="0.171" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/drawable/spinner_background.xml" value="0.1235" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/about_us.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/about_us_page.xml" value="0.25" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/account_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activation_page.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_cart_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_deactivate_and_reactivate.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_find_account.xml" value="0.25" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_log_in_page.xml" value="0.25" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_my_settings.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_peter.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_settings.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/activity_user_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/apple.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/apple_description.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/apple_page.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/banana.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/banana_description.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/banana_page.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/cart_page.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/cucumber.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/cucumber_description.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/cucumber_page.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/dashboard_page.xml" value="0.18" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/deactivate_and_reactivate.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/deactivate_and_reactivate_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/find_account.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/find_account_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/font_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/forget_password_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/guava.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/guava_description.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/guava_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/home_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/log_in.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/log_in_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/mango_description.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/mango_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/my_settings.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/notifications.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/notifications_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/orange_description.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/orange_page.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/paw_paw_description.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/pawpaw.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/pawpaw_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/pineapple.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/pineapple_description.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/pineapple_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/play_page.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/profile_page.xml" value="0.2" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/settings.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/settings_listview.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/settings_page.xml" value="0.25" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/sign_up_page.xml" value="0.25" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/watermelon.xml" value="0.22" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/watermelon_description.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Sivamtrish/AndroidStudioProjects/mysimplelayouts/app/src/main/res/layout/watermelon_page.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

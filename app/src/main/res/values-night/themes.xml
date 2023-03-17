@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MySimpleLayouts" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FFB300</item>
+        <item name="colorPrimaryVariant">#FDD835</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    Light mode -->
+    <!--    screen background if dark mode on-->
+
+    <style name="SCREEN">
+        <item name="android:background">#121111</item>
+    </style>
+
+    <!--    text background if dark mode is on-->
+    <style name="Text">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
